@@ -1,0 +1,3 @@
+[PLAYLIST SIZE=4]{Rendez-Vous 2,,}{Equinoxe 4,,}{The Four Seasons,Classical,}{Billy Jean,dance-pop,1983}
+[PLAYLIST SIZE=2]{Rendez-Vous 2,,}{The Four Seasons,Classical,}
+[HISTORY]<DELETE:{Equinoxe 4,,}><DELETE:{Billy Jean,dance-pop,1983}><INSERT:{Billy Jean,dance-pop,1983}><INSERT:{The Four Seasons,Classical,}><INSERT:{Equinoxe 4,,}><INSERT:{Rendez-Vous 2,,}>

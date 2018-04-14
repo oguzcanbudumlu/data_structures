@@ -1,0 +1,10 @@
+Title798;Genre1;1954
+Title573;Genre10;1982
+Title581;Genre1;1903
+Title548;Genre1;1933
+Title041;Genre5;1912
+Title001;Genre4;1977
+Title676;Genre9;1989
+Title237;Genre2;1961
+Title597;Genre5;1943
+Title623;Genre1;1968

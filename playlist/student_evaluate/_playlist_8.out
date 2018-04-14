@@ -1,0 +1,4 @@
+[PLAYLIST SIZE=4]{T1,,}{T2,,}{T3,,}{T4,,}
+[PLAYLIST SIZE=4]{T1,,}{T2,,}{T4,,}{T3,,}
+[PLAYLIST SIZE=4]{T1,,}{T2,,}{T4,,}{T3,,}
+[HISTORY]<INSERT:{T4,,}><INSERT:{T3,,}><INSERT:{T2,,}><INSERT:{T1,,}>
